@@ -1,0 +1,20 @@
+1) Python - https://www.python.org
+   -Uma das principais vantagens do Python é a sua sintaxe clara e legível, também possui muitas
+   bibliotecas e frameworks voltados para o desenvolvimento web.
+
+2) Visual Studio - https://visualstudio.microsoft.com/downloads/
+   -Com o Visual Studio você tem acesso à ferramentas integradas para implantar seu aplicativo Web
+   em qualquer servidor, ou dimensionar para a nuvem do Microsoft Azure. Publicar e gerenciar seus
+   sites e máquinas virtuais diretamente do Visual Studio.
+
+3) Nginx - https://nginx.org/en
+   -Nginx é um servidor web que também funciona como proxy de email, proxy reverso, e balanceador de
+   carga. O NGINX também é altamente escalável, significando que seu serviço cresce com o aumento de
+   tráfego do usuário.
+
+4) Apache - https://apache.org
+   -Apache é extremamente competente e versátil, é um software que tem código aberto e
+   distribuição gratuita (open-source), mesmo sendo utilizado inclusive pelo meio corporativo.
+   Apache é um dos principais softwares para servidores web do mercado.
+
+5) Java - https://www.java.com/pt_BR/
